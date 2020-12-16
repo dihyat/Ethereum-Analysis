@@ -1,3 +1,5 @@
+# show the average value of transaction in each month between the start and end of the dataset.
+
 from mrjob.job import MRJob
 import time
 from statistics import mean
