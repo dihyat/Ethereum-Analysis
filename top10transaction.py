@@ -1,4 +1,4 @@
-#this is part b job 3
+#gets the top ten transactions
 
 from mrjob.job import MRJob
 
