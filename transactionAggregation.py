@@ -1,4 +1,4 @@
-#this is part b job 1
+#aggregates transactions to see how much each address within the user space has been involved in
 
 from mrjob.job import MRJob
 
