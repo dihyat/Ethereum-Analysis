@@ -1,3 +1,5 @@
+#show the number of transactions occurring every month between the start and end of the dataset.
+
 from mrjob.job import MRJob
 import time
 
