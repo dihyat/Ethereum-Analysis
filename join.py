@@ -1,4 +1,4 @@
-#This is part b job 2
+#repartation join between the transaction aggregates and the contracts
 
 from mrjob.job import MRJob
 
